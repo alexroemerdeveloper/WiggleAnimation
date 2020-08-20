@@ -11,6 +11,8 @@
 		6F55B71D24EE85C40016AD7F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F55B71C24EE85C40016AD7F /* ContentView.swift */; };
 		6F55B71F24EE85C70016AD7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F55B71E24EE85C70016AD7F /* Assets.xcassets */; };
 		6F55B72224EE85C70016AD7F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F55B72124EE85C70016AD7F /* Preview Assets.xcassets */; };
+		6F55B72A24EE85DF0016AD7F /* CalenderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F55B72924EE85DF0016AD7F /* CalenderView.swift */; };
+		6F55B72C24EE861B0016AD7F /* WeahterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F55B72B24EE861B0016AD7F /* WeahterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		6F55B71E24EE85C70016AD7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F55B72124EE85C70016AD7F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6F55B72324EE85C70016AD7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F55B72924EE85DF0016AD7F /* CalenderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalenderView.swift; sourceTree = "<group>"; };
+		6F55B72B24EE861B0016AD7F /* WeahterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeahterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				6F55B71A24EE85C40016AD7F /* WiggleAnimationApp.swift */,
 				6F55B71C24EE85C40016AD7F /* ContentView.swift */,
+				6F55B72924EE85DF0016AD7F /* CalenderView.swift */,
+				6F55B72B24EE861B0016AD7F /* WeahterView.swift */,
 				6F55B71E24EE85C70016AD7F /* Assets.xcassets */,
 				6F55B72324EE85C70016AD7F /* Info.plist */,
 				6F55B72024EE85C70016AD7F /* Preview Content */,
@@ -140,6 +146,8 @@
 			files = (
 				6F55B71D24EE85C40016AD7F /* ContentView.swift in Sources */,
 				6F55B71B24EE85C40016AD7F /* WiggleAnimationApp.swift in Sources */,
+				6F55B72A24EE85DF0016AD7F /* CalenderView.swift in Sources */,
+				6F55B72C24EE861B0016AD7F /* WeahterView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
